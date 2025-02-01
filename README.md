@@ -2,6 +2,7 @@
 
 This project is a real-time AI-powered voice assistant designed to help tourists explore London, UK. It transcribes live speech, generates AI responses using OpenAI's GPT, and provides voice feedback using ElevenLabs.
 
+
 ## 🎯 Features
 
 * Real-time speech-to-text transcription using AssemblyAI
@@ -11,6 +12,7 @@ This project is a real-time AI-powered voice assistant designed to help tourists
 * Text-to-speech voice output using ElevenLabs
 
 * Interactive and conversational travel guide experience
+
 
 ## 🚀 How It Works
 1️⃣ The assistant starts by greeting the user with a voice message.
@@ -25,11 +27,11 @@ This project is a real-time AI-powered voice assistant designed to help tourists
 
 
 ## 🏗️ Tech Stack
-🔹 Python 🐍
+* Python 🐍
 
-🔹 OpenAI GPT-4o 🤖
+* OpenAI GPT-4o 🤖
 
-🔹 AssemblyAI (Speech-to-Text) 🎙️
+* AssemblyAI (Speech-to-Text) 🎙️
 
-🔹 ElevenLabs (Text-to-Speech) 🔊
+* ElevenLabs (Text-to-Speech) 🔊
 
