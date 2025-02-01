@@ -1,0 +1,4 @@
+openai
+assemblyai
+elevenlabs
+sounddevice
