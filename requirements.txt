@@ -1,4 +1,5 @@
 openai
 assemblyai
 elevenlabs
-sounddevice
+pyaudio
+assemblyai[extras]
