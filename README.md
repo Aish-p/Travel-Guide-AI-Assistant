@@ -44,7 +44,7 @@ This is required for ElevenLabs to stream audio.
 
 * 🖥️ Windows
 
-  1. Download mpv from [here]https://mpv.io/
+  1. Download mpv from [here](https://mpv.io/)
 
   2. Add it to your system PATH.
 
