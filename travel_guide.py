@@ -14,7 +14,7 @@ class AI_Assistant:
         self.transcriber = None
 
         self.interaction = [
-            {"role":"system", "content":"You are a helpful travel guide in London, UK, helping a tourist plan their trip. Be conversational and concise in your responses."},
+            {"role":"system", "content":"You are a friendly and knowledgeable travel guide for London, UK. Assist tourists in planning their trip by providing helpful, engaging, and concise responses. Keep the conversation natural and welcoming."},
         ]
 
     def stop_transcription(self):
@@ -89,7 +89,7 @@ class AI_Assistant:
 
         stream(audio_stream)
 
-greeting = "Thank you for calling London Travel Guide. My name is Matilda, how may I assist you?"
+greeting = "Welcome to the London Travel Guide! I'm Matilda, your personal travel assistant. How can I help you plan the perfect trip today?"
 ai_assistant = AI_Assistant()
 ai_assistant.generate_audio(greeting)
 ai_assistant.start_transcription()
