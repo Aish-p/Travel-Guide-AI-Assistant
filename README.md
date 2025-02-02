@@ -37,7 +37,9 @@ This project is a real-time AI-powered voice assistant designed to help tourists
 ## 🛠️ System Dependencies
 Before running the script, make sure the following dependencies are installed on your system
 
+
 🎵 MPV (Required for ElevenLabs Audio Streaming)
+
 This is required for ElevenLabs to stream audio.
 
 * 🖥️ Windows
@@ -57,6 +59,7 @@ This is required for ElevenLabs to stream audio.
   ```
 
 🎤 PortAudio & PyAudio (Required for AssemblyAI Transcription)
+
 PortAudio is required to use PyAudio, which AssemblyAI needs for real-time transcription.
 
 * 🖥️ Windows
